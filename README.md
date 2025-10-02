@@ -9,5 +9,5 @@
 
 ![Github Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=organom&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=organom&theme=dark&hide_border=true)
-![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=organom&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=c,c%2B%2B)
-
+<!-- ![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=organom&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=c,c%2B%2B)
+-->
