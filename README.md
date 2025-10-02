@@ -4,7 +4,6 @@
 - 😄 &nbsp; friendly, dynamic, and highly motivated, always striving for excellence in everything I do
 - 🌱 &nbsp; what drives me the most is creating something new, especially when it has the potential to help others
 - ✨ &nbsp; DIY projects, joining hackathons, maker events and playing games
-----
 - 💬 &nbsp; Ask me anything [here](https://github.com/organom/organom/issues/) and check my [blog](https://ricardo.heptasoft.com)
 ----
 
