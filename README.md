@@ -11,3 +11,6 @@
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=organom&theme=dark&hide_border=true)
 <!-- ![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=organom&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=c,c%2B%2B)
 -->
+
+
+<a href="https://github.com/3985504"><img src="https://avatars.githubusercontent.com/u/3985504?v=4" idth="50" height="50" alt="Avatar" style="display: inline-block; line-height: 1; vertical-align: middle; border-radius: 50% !important;"> Ricardo Gomes</a>
